@@ -464,7 +464,8 @@ def zbs():
     c = 1
     d = []
     b = int(input('请输入数字:'))
-    a = int(input('请输入个数:'))
+    a = int(input('请输入个数:'))i
+    i=0
     for i in range(a):
         e = c * b
         d.append(e)
