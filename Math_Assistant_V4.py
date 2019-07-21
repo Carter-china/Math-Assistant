@@ -461,7 +461,6 @@ def qys():
         print(c)
 
 def zbs():
-  
     c = 1
     d = []
     b = int(input('请输入数字:'))
