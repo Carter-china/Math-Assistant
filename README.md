@@ -1,0 +1,2 @@
+# Math-Assistant
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/004bdb88b1eb4238a1ad280f4db4a027)](https://app.codacy.com/app/15842352280/Math-Assistant?utm_source=github.com&utm_medium=referral&utm_content=Carter-china/Math-Assistant&utm_campaign=Badge_Grade_Dashboard)
